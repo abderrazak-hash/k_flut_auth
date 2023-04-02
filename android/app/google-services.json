@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34533066703",
+    "project_id": "kflutterbaseauth",
+    "storage_bucket": "kflutterbaseauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34533066703:android:300597582a0f5c8a5074ba",
+        "android_client_info": {
+          "package_name": "com.example.flut_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34533066703-1jq2oc3dtjo7a15ifr2t9a67bpr40rrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyqj1BUjJxZaM24FvHYHEGrJ9WBxRJvgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34533066703-1jq2oc3dtjo7a15ifr2t9a67bpr40rrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
